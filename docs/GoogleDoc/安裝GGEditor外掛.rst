@@ -6,29 +6,29 @@
 
 安裝步驟如下：
 
-#. 登入Google
+1. 登入Google
 
-#. 點選大頭貼旁邊的應用程式按鈕，選擇\ |STYLE0|\ 
+2. 點選大頭貼旁邊的應用程式按鈕，選擇\ |STYLE0|\ 
 
-\ |IMG1|\ 
+   \ |IMG1|\ 
 
-#. 進到雲端硬碟後，點選左上角的\ |STYLE1|\ 按鈕，在點選\ |STYLE2|\ 
+3. 進到雲端硬碟後，點選左上角的\ |STYLE1|\ 按鈕，在點選\ |STYLE2|\ 
 
-\ |IMG2|\ 
+   \ |IMG2|\ 
 
-#. 在Google中，點選上方工具列的\ |STYLE3|\ 按鈕，選擇\ |STYLE4|\ 
+4. 在Google中，點選上方工具列的\ |STYLE3|\ 按鈕，選擇\ |STYLE4|\ 
 
-\ |IMG3|\ 
+   \ |IMG3|\ 
 
-#. 在搜尋列中輸入 \ |STYLE5|\ ，然後按Enter
+5. 在搜尋列中輸入 \ |STYLE5|\ ，然後按Enter
 
-#. 在GGEditor項目右邊，點選 \ |STYLE6|\  按鈕安裝GGEditor外掛程式
+6. 在GGEditor項目右邊，點選 \ |STYLE6|\  按鈕安裝GGEditor外掛程式
 
-\ |IMG4|\ 
+   \ |IMG4|\ 
 
-#. 安裝完成
+7. 安裝完成
 
-\ |IMG5|\ 
+   \ |IMG5|\ 
 
 .. bottom of content
 
