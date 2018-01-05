@@ -1,4 +1,5 @@
-\ |STYLE0|\ 
+Github帳號申請
+======================
 
 申請方式如下：
 
@@ -37,9 +38,6 @@
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Github帳號申請**
 
 
 .. |LINK1| raw:: html
