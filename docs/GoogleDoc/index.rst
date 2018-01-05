@@ -29,8 +29,8 @@ Google帳號只需要到Google網站申請，因此不再贅述。剩下的2、3
     :maxdepth: 2
 
     安裝GGEditor外掛
-    Github 帳號申請
-    加入Github 專案共筆行列
+    Github帳號申請
+    加入Github專案共筆行列
 
 \ |STYLE0|\ 
 
