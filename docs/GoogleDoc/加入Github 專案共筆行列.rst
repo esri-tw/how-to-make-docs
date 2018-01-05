@@ -6,31 +6,31 @@
 
 * \ |STYLE2|\ 
 
-    #. \ |STYLE3|\ \ |LINK1|\ 
+    1. \ |STYLE3|\ \ |LINK1|\ 
 
-    #. \ |STYLE4|\  \ |LINK2|\ 
+    2. \ |STYLE4|\  \ |LINK2|\ 
 
-\ |IMG1|\ 
+        \ |IMG1|\ 
 
-    #. \ |STYLE5|\ 
+    3. \ |STYLE5|\ 
 
-\ |IMG2|\ 
+        \ |IMG2|\ 
 
-    #. \ |STYLE6|\ 
+    4. \ |STYLE6|\ 
 
-\ |IMG3|\ 
+        \ |IMG3|\     
 
-    
+    5. \ |STYLE7|\ 
 
-    #. \ |STYLE7|\ 
+        \ |IMG4|\ 
+        
+    6. \ |STYLE8|\ 
 
-\ |IMG4|\ 
+        \ |IMG5|\ 
 
-    #. \ |STYLE8|\ 
-
-\ |IMG5|\ 
-
-    #. \ |STYLE9|\  \ |IMG6|\    
+    7. \ |STYLE9|\  
+        
+        \ |IMG6|\    
 
 
 .. bottom of content
