@@ -1,4 +1,5 @@
-\ |STYLE0|\ 
+加入Github專案共筆行列
+=========================
 
 加入Github專案協作方式如下：
 
@@ -34,9 +35,6 @@
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **加入Github 專案協作行列**
 
 .. |STYLE1| replace:: **當新成員建好Github帳號後，將帳號或Eamil告知專案管理員**
 
