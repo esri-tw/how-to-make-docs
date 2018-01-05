@@ -27,7 +27,6 @@ Google帳號只需要到Google網站申請，因此不再贅述。剩下的2、3
 
 .. toctree:: 
     :maxdepth: 2
-    :hidden:
 
     安裝GGEditor外掛
     Github 帳號申請
